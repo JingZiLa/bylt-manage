@@ -21,7 +21,6 @@
 
 - 基础的HTML、CSS、JavaScript（基于ES6标准）
 - JQuery
-  后端技术：
 
 - 基础的SpringMVC、Spring 5.x和MyBatis3
 - mysql   8.0.17
